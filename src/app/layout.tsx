@@ -13,7 +13,7 @@ const noteFont = Patrick_Hand({
 });
 
 export const metadata = {
-    title: "To-Do List | Marcelo Melo",
+    title: "To-Do List",
     description: "Agrega tus tareas diarias y mantente organizado.",
 };
 
